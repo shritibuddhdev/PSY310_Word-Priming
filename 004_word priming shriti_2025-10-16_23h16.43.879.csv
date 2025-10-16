@@ -1,0 +1,21 @@
+﻿Reference,old_new,test_textbox.text,,,
+tshirt,old,tshirt,,,
+marble,old,marble,,,
+laptop,old,laptop,,,
+phone,old,phone,,,
+board,old,board,,,
+keys,old,keys,,Proportion of hit from study list,1
+case,old,case,,Proportion of hit from non primed words,0.8
+table,new,table,,,
+bottle,new,bottle,,Priming Score,0.2
+chart,old,chart,,,
+cushion,old,cushion,,,
+book,old,book,,,
+cruise,old,cruise,,,
+police,old,police,,,
+mouse,old,mouse,,,
+camera,new,,,,
+poster,old,poster,,,
+vase,new,vase,,,
+pastry,old,pastry,,,
+pencil,new,pencil,,,
